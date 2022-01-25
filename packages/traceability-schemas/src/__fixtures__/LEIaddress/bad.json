@@ -1,0 +1,48 @@
+[
+  {
+    "language": "tr",
+    "addressNumberWithinBuilding": "3",
+    "mailRouting": "369 Ashlee Orchard, 42302",
+    "pixel": "reboot",
+    "transmitter": "quantify",
+    "array": "calculate"
+  },
+  {
+    "type": "LEIaddress",
+    "language": "ne",
+    "addressLines": [
+      "Mann - Stracke",
+      "862 Stroman Summit"
+    ],
+    "addressNumber": "440",
+    "addressNumberWithinBuilding": "6",
+    "mailRouting": "73826 Benjamin Viaduct, 67118-8984",
+    "city": "Port Reytown",
+    "region": "Buckinghamshire",
+    "postalCode": "83279",
+    "transmitter": "input",
+    "firewall": "compress",
+    "driver": "override"
+  },
+  {
+    "@context": [
+      "https://dlt.mobi/mobility-schema"
+    ],
+    "type": "LEIaddress",
+    "language": "en_IND",
+    "addressLines": [
+      "Morissette and Sons",
+      "36058 Breitenberg Spur"
+    ],
+    "addressNumber": "316",
+    "addressNumberWithinBuilding": "2",
+    "mailRouting": "70549 Huel Streets, 19717-9167",
+    "city": "Port Eliseville",
+    "region": "Borders",
+    "postalCode": "70754-3060",
+    "matrix": "parse",
+    "feed": "parse",
+    "system": "input",
+    "alarm": "hack"
+  }
+]

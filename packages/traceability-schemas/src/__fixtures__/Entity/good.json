@@ -1,0 +1,75 @@
+[
+  {
+    "@context": [
+      "https://dlt.mobi/mobility-schema"
+    ],
+    "type": "Organization",
+    "name": "Bergnaum, Koss and Bashirian",
+    "description": "Inverse bi-directional definition",
+    "address": {
+      "type": "PostalAddress",
+      "streetAddress": "9409 Katlyn Trail",
+      "addressLocality": "East Aleenbury",
+      "addressRegion": "Maine",
+      "postalCode": "84991-3573",
+      "addressCountry": "Hong Kong"
+    },
+    "email": "Anabelle_Blanda81@example.org",
+    "phoneNumber": "555-972-8462",
+    "faxNumber": "555-857-6121"
+  },
+  {
+    "@context": [
+      "https://dlt.mobi/mobility-schema"
+    ],
+    "type": "Person",
+    "firstName": "Nicola",
+    "lastName": "Schaden",
+    "email": "Lucas.Purdy90@example.com",
+    "phoneNumber": "555-125-4784",
+    "worksFor": {
+      "type": "Organization",
+      "name": "Schumm, Lueilwitz and Wisoky",
+      "description": "Organic asymmetric structure",
+      "address": {
+        "type": "PostalAddress",
+        "streetAddress": "29262 Margaret Flats",
+        "addressLocality": "Mosciskitown",
+        "addressRegion": "Louisiana",
+        "postalCode": "10645",
+        "addressCountry": "Kyrgyz Republic"
+      },
+      "email": "Gudrun48@example.net",
+      "phoneNumber": "555-795-8482",
+      "faxNumber": "555-568-3769"
+    },
+    "jobTitle": "Corporate Communications Supervisor"
+  },
+  {
+    "@context": [
+      "https://dlt.mobi/mobility-schema"
+    ],
+    "type": "Person",
+    "firstName": "Cheyenne",
+    "lastName": "Predovic",
+    "email": "Hanna.Treutel51@example.com",
+    "phoneNumber": "555-676-2620",
+    "worksFor": {
+      "type": "Organization",
+      "name": "Blanda - Lind",
+      "description": "Cross-platform high-level benchmark",
+      "address": {
+        "type": "PostalAddress",
+        "streetAddress": "971 Ronny Lodge",
+        "addressLocality": "Lake Destin",
+        "addressRegion": "Arkansas",
+        "postalCode": "09643",
+        "addressCountry": "Gibraltar"
+      },
+      "email": "Camryn69@example.com",
+      "phoneNumber": "555-288-6700",
+      "faxNumber": "555-621-3161"
+    },
+    "jobTitle": "Dynamic Metrics Officer"
+  }
+]

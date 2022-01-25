@@ -1,0 +1,83 @@
+[
+  {
+    "@context": [
+      "https://dlt.mobi/mobility-schema"
+    ],
+    "type": "Person",
+    "firstName": "Darrin",
+    "lastName": "Senger",
+    "email": "Queenie_Greenfelder@example.org",
+    "phoneNumber": "555-516-7425",
+    "worksFor": {
+      "type": "Organization",
+      "name": "Kirlin, Kling and McGlynn",
+      "description": "Stand-alone modular knowledge user",
+      "address": {
+        "type": "PostalAddress",
+        "streetAddress": "91429 McCullough Brook",
+        "addressLocality": "Lake Danial",
+        "addressRegion": "Nevada",
+        "postalCode": "29062-3467",
+        "addressCountry": "Brazil"
+      },
+      "email": "Louisa.Parker@example.org",
+      "phoneNumber": "555-269-8997",
+      "faxNumber": "555-747-5527"
+    },
+    "jobTitle": "Global Research Liaison"
+  },
+  {
+    "@context": [
+      "https://dlt.mobi/mobility-schema"
+    ],
+    "type": "Person",
+    "firstName": "Tad",
+    "lastName": "Hodkiewicz",
+    "email": "Tremayne.Wintheiser11@example.com",
+    "phoneNumber": "555-490-4801",
+    "worksFor": {
+      "type": "Organization",
+      "name": "Christiansen - Glover",
+      "description": "Organic static strategy",
+      "address": {
+        "type": "PostalAddress",
+        "streetAddress": "3101 Alycia Mission",
+        "addressLocality": "Douglasstad",
+        "addressRegion": "Oklahoma",
+        "postalCode": "05840-3297",
+        "addressCountry": "Belgium"
+      },
+      "email": "Kian_Schamberger94@example.org",
+      "phoneNumber": "555-384-9377",
+      "faxNumber": "555-191-8440"
+    },
+    "jobTitle": "International Program Analyst"
+  },
+  {
+    "@context": [
+      "https://dlt.mobi/mobility-schema"
+    ],
+    "type": "Person",
+    "firstName": "Millie",
+    "lastName": "Effertz",
+    "email": "Madonna_Strosin@example.com",
+    "phoneNumber": "555-474-8653",
+    "worksFor": {
+      "type": "Organization",
+      "name": "Russel - Hills",
+      "description": "Adaptive 6th generation standardization",
+      "address": {
+        "type": "PostalAddress",
+        "streetAddress": "71967 Glover Village",
+        "addressLocality": "South Oswaldfurt",
+        "addressRegion": "North Carolina",
+        "postalCode": "01349-3584",
+        "addressCountry": "Kyrgyz Republic"
+      },
+      "email": "Christy_Johnson@example.net",
+      "phoneNumber": "555-511-1998",
+      "faxNumber": "555-287-6709"
+    },
+    "jobTitle": "Human Web Manager"
+  }
+]

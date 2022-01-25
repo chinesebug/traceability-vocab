@@ -1,0 +1,23 @@
+[
+  {
+    "otherValidationAuthorityID": "LRD020TB",
+    "feed": "compress",
+    "alarm": "hack",
+    "port": "program",
+    "capacitor": "parse"
+  },
+  {
+    "@context": [
+      "https://dlt.mobi/mobility-schema"
+    ],
+    "otherValidationAuthorityID": "51FQXWFU",
+    "matrix": "hack",
+    "microchip": "override",
+    "bus": "bypass"
+  },
+  {
+    "validationAuthorityID": "RA000003",
+    "validationAuthorityEntityID": "MS4A1WXYM6SGH04L4LO8",
+    "protocol": "calculate"
+  }
+]

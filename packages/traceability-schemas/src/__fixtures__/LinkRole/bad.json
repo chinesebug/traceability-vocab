@@ -1,0 +1,17 @@
+[
+  {
+    "@context": [
+      "https://dlt.mobi/mobility-schema"
+    ],
+    "type": "LinkRole",
+    "circuit": "reboot",
+    "port": "override"
+  },
+  {
+    "microchip": "navigate"
+  },
+  {
+    "system": "transmit",
+    "pixel": "parse"
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "chargePrepaid": 89,
+    "driver": "input"
+  },
+  {
+    "chargeCollect": 918,
+    "bus": "generate"
+  },
+  {
+    "chargeCollect": 623,
+    "interface": "quantify",
+    "protocol": "parse",
+    "alarm": "input"
+  }
+]

@@ -1,0 +1,59 @@
+[
+  {
+    "@context": [
+      "https://dlt.mobi/mobility-schema"
+    ],
+    "type": "CitopiaMembershipCredential",
+    "holder": "Matt Shi",
+    "identifier": "did:mobinet:123456789abcdefghi",
+    "member": {
+      "@context": [
+        "https://dlt.mobi/mobility-schema"
+      ],
+      "type": "Member",
+      "firstName": "Fay",
+      "lastName": "Prohaska",
+      "email": "Rose_Treutel40@example.net"
+    },
+    "issuanceDate": "2020-05-17",
+    "expirationDate": "2021-5-29"
+  },
+  {
+    "@context": [
+      "https://dlt.mobi/mobility-schema"
+    ],
+    "type": "CitopiaMembershipCredential",
+    "holder": "Matt Shi",
+    "identifier": "did:mobinet:123456789abcdefghi",
+    "member": {
+      "@context": [
+        "https://dlt.mobi/mobility-schema"
+      ],
+      "type": "Member",
+      "firstName": "Malachi",
+      "lastName": "Wiza",
+      "email": "Ed54@example.org"
+    },
+    "issuanceDate": "2020-05-17",
+    "expirationDate": "2021-5-29"
+  },
+  {
+    "@context": [
+      "https://dlt.mobi/mobility-schema"
+    ],
+    "type": "CitopiaMembershipCredential",
+    "holder": "Matt Shi",
+    "identifier": "did:mobinet:123456789abcdefghi",
+    "member": {
+      "@context": [
+        "https://dlt.mobi/mobility-schema"
+      ],
+      "type": "Member",
+      "firstName": "Aida",
+      "lastName": "Ferry",
+      "email": "Eric.Daugherty64@example.com"
+    },
+    "issuanceDate": "2020-05-17",
+    "expirationDate": "2021-5-29"
+  }
+]

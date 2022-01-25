@@ -1,0 +1,44 @@
+[
+  {
+    "firewall": "reboot",
+    "pixel": "compress"
+  },
+  {
+    "globalLocationNumber": "1089314752378",
+    "geo": {
+      "type": "GeoCoordinates",
+      "latitude": "-6.4629",
+      "longitude": "135.9530"
+    },
+    "address": {
+      "type": "PostalAddress",
+      "organizationName": "Bauch, Leannon and Jacobi",
+      "streetAddress": "734 Rutherford Springs",
+      "addressLocality": "South Brendenshire",
+      "addressRegion": "Texas",
+      "postalCode": "50073",
+      "addressCountry": "Singapore"
+    },
+    "system": "back up",
+    "card": "copy"
+  },
+  {
+    "type": "Place",
+    "geo": {
+      "type": "GeoCoordinates",
+      "latitude": "43.0248",
+      "longitude": "6.4658"
+    },
+    "address": {
+      "type": "PostalAddress",
+      "organizationName": "Heidenreich LLC",
+      "streetAddress": "5052 Katelin Prairie",
+      "addressLocality": "Thielhaven",
+      "addressRegion": "North Dakota",
+      "postalCode": "58876",
+      "addressCountry": "Sao Tome and Principe"
+    },
+    "panel": "copy",
+    "circuit": "bypass"
+  }
+]

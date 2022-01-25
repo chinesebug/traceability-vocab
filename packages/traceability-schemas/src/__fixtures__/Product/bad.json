@@ -1,0 +1,37 @@
+[
+  {
+    "@context": [
+      "https://dlt.mobi/mobility-schema"
+    ],
+    "type": "Product",
+    "name": "Practical Fresh Cheese",
+    "description": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
+    "weight": {
+      "type": "QuantitativeValue",
+      "unitCode": "hg/ha",
+      "value": "7422"
+    },
+    "port": "override",
+    "panel": "navigate"
+  },
+  {
+    "sizeOrAmount": {
+      "type": "QuantitativeValue",
+      "unitCode": "hg/ha",
+      "value": "991"
+    },
+    "array": "override"
+  },
+  {
+    "name": "Refined Wooden Mouse",
+    "sizeOrAmount": {
+      "type": "QuantitativeValue",
+      "unitCode": "hg/ha",
+      "value": "3095"
+    },
+    "transmitter": "hack",
+    "feed": "copy",
+    "alarm": "copy",
+    "card": "program"
+  }
+]

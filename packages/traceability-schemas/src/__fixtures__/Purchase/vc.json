@@ -1,0 +1,51 @@
+{
+  "@context": [
+    "https://www.w3.org/2018/credentials/v1",
+    "https://dlt.mobi/mobility-schema"
+  ],
+  "id": "http://example.org/credentials/",
+  "type": [
+    "VerifiableCredential"
+  ],
+  "issuanceDate": "2021-02-04T20:29:37+00:00",
+  "issuer": "did:key:z6MktHQo3fRRohk44dsbE76CuiTpBmyMWq2VVjvV6aBSeE3U",
+  "credentialSubject": {
+    "@context": [
+      "https://dlt.mobi/mobility-schema"
+    ],
+    "type": [
+      "Purchase"
+    ],
+    "customer": {
+      "type": "Person",
+      "firstName": "Domenico",
+      "lastName": "Streich",
+      "email": "Taylor_Tremblay3@example.com",
+      "phoneNumber": "555-584-4002",
+      "worksFor": {
+        "type": "Organization",
+        "name": "Yundt, Lebsack and Greenfelder",
+        "description": "Business-focused real-time framework",
+        "address": {
+          "type": "PostalAddress",
+          "streetAddress": "503 Smitham Villages",
+          "addressLocality": "Schneiderbury",
+          "addressRegion": "Tennessee",
+          "postalCode": "92572",
+          "addressCountry": "Hungary"
+        },
+        "email": "Thalia_DuBuque@example.com",
+        "phoneNumber": "555-655-5622",
+        "faxNumber": "555-768-3280"
+      },
+      "jobTitle": "Forward Data Architect"
+    }
+  },
+  "proof": {
+    "type": "Ed25519Signature2018",
+    "created": "2019-12-11T03:50:55Z",
+    "jws": "eyJhbGciOiJFZERTQSIsImI2NCI6ZmFsc2UsImNyaXQiOlsiYjY0Il19..fA9DHwenfaTvArfsrNqnHjsbY7INCPN4V9UC9eZbXWVVGY5reaoaxFlGDU-F-cgzcbnOPFsjfIeaE6GddbARAw",
+    "proofPurpose": "assertionMethod",
+    "verificationMethod": "did:key:z6MktHQo3fRRohk44dsbE76CuiTpBmyMWq2VVjvV6aBSeE3U#z6MktHQo3fRRohk44dsbE76CuiTpBmyMWq2VVjvV6aBSeE3U"
+  }
+}

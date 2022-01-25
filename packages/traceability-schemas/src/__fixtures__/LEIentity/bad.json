@@ -1,0 +1,97 @@
+[
+  {
+    "legalName": "Reilly and Sons",
+    "expirationReason": "synergize cross-platform eyeballs",
+    "pixel": "connect",
+    "circuit": "navigate",
+    "program": "navigate"
+  },
+  {
+    "type": "LEIentity",
+    "legalNameLanguage": "fr_CH",
+    "otherNames": [
+      "Franecki - Boyle",
+      "Jakubowski, Kilback and Medhurst"
+    ],
+    "transliteratedOtherNames": [
+      "Franecki - Boyle",
+      "Jakubowski, Kilback and Medhurst"
+    ],
+    "headquartersAddress": {
+      "type": "LEIaddress",
+      "language": "nl",
+      "addressLines": [
+        "Cummings and Sons",
+        "365 Rosalind Mall"
+      ],
+      "addressNumber": "19",
+      "addressNumberWithinBuilding": "7",
+      "mailRouting": "845 Keara Trace, 51029",
+      "city": "North Justonberg",
+      "region": "Berkshire",
+      "country": "Central African Republic",
+      "postalCode": "00612-4190"
+    },
+    "associatedEntity": {
+      "type": "Organization",
+      "leiCode": "MUQ84RPEWL6M8DYI6EU2",
+      "name": "Hackett Inc"
+    },
+    "program": "reboot",
+    "alarm": "transmit",
+    "interface": "synthesize"
+  },
+  {
+    "@context": [
+      "https://dlt.mobi/mobility-schema"
+    ],
+    "type": "LEIentity",
+    "legalNameLanguage": "nl_BE",
+    "otherNames": [
+      "Thiel LLC",
+      "Runolfsdottir - Hansen"
+    ],
+    "transliteratedOtherNames": [
+      "Thiel LLC",
+      "Runolfsdottir - Hansen"
+    ],
+    "legalAddress": {
+      "type": "LEIaddress",
+      "language": "pt_BR",
+      "addressLines": [
+        "Schmeler, Hamill and Kertzmann",
+        "56033 Monahan Plaza"
+      ],
+      "addressNumber": "188",
+      "addressNumberWithinBuilding": "2",
+      "mailRouting": "5633 Metz Orchard, 53420",
+      "city": "New Leeville",
+      "region": "Buckinghamshire",
+      "country": "Taiwan",
+      "postalCode": "66745-3589"
+    },
+    "registrationAuthority": {
+      "type": "LEIauthority",
+      "validationAuthorityID": "RA000002",
+      "otherValidationAuthorityID": "HM9IAOBX",
+      "validationAuthorityEntityID": "SJJKB3LPPE9ZET4I64OU"
+    },
+    "legalJurisdiction": "Cambridgeshire",
+    "associatedEntity": {
+      "type": "Organization",
+      "leiCode": "NK3CN5ZL1BZVEZVRS3KA",
+      "name": "Quitzon and Sons"
+    },
+    "status": "REQUESTED",
+    "expirationDate": "2022-07-11",
+    "expirationReason": "extend efficient channels",
+    "successorEntity": {
+      "type": "Organization",
+      "leiCode": "9XYFH3TTJD1IM4Y0LMTI",
+      "name": "Medhurst, Farrell and Schimmel"
+    },
+    "otherAddresses": [],
+    "bus": "reboot",
+    "circuit": "input"
+  }
+]

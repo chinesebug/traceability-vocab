@@ -1,0 +1,38 @@
+[
+  {
+    "@context": [
+      "https://dlt.mobi/mobility-schema"
+    ],
+    "type": "PostalAddress",
+    "organizationName": "Farrell, Wehner and Franecki",
+    "streetAddress": "4470 Anastasia Mall",
+    "addressLocality": "Vernieshire",
+    "addressRegion": "West Virginia",
+    "postalCode": "75965",
+    "addressCountry": "Niger"
+  },
+  {
+    "@context": [
+      "https://dlt.mobi/mobility-schema"
+    ],
+    "type": "PostalAddress",
+    "organizationName": "Gorczany - Corkery",
+    "streetAddress": "856 Cruickshank Underpass",
+    "addressLocality": "Ludieberg",
+    "addressRegion": "South Dakota",
+    "postalCode": "99327",
+    "addressCountry": "Republic of Korea"
+  },
+  {
+    "@context": [
+      "https://dlt.mobi/mobility-schema"
+    ],
+    "type": "PostalAddress",
+    "organizationName": "Bayer - Collier",
+    "streetAddress": "9357 Kutch Forest",
+    "addressLocality": "Parisianshire",
+    "addressRegion": "Arkansas",
+    "postalCode": "29874-5514",
+    "addressCountry": "Kenya"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "type": "BatteryID",
+    "sensor": "back up",
+    "bus": "quantify",
+    "feed": "override"
+  },
+  {
+    "transmitter": "quantify",
+    "array": "parse",
+    "port": "quantify"
+  },
+  {
+    "@context": [
+      "https://dlt.mobi/mobility-schema"
+    ],
+    "vid": {
+      "type": "VID",
+      "vid": "did:mobi:c276e12ec21ebfeb1f712ebc6f",
+      "manufacturer": {
+        "type": "Organization",
+        "name": "O'Conner - Buckridge",
+        "description": "Universal systemic solution",
+        "address": {
+          "type": "PostalAddress",
+          "streetAddress": "100 Rutherford Ways",
+          "addressLocality": "East Eldora",
+          "addressRegion": "Alabama",
+          "postalCode": "81777",
+          "addressCountry": "Senegal"
+        },
+        "email": "Isobel6@example.com",
+        "phoneNumber": "555-794-6453",
+        "faxNumber": "555-166-9336"
+      },
+      "make": "Ford",
+      "model": "Mach_E",
+      "vin": "JTERU5JR7M5861170"
+    },
+    "serialNumber": "2345H152031173270027",
+    "alarm": "input",
+    "pixel": "calculate"
+  }
+]

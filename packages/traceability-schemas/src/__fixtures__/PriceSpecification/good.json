@@ -1,0 +1,26 @@
+[
+  {
+    "@context": [
+      "https://dlt.mobi/mobility-schema"
+    ],
+    "type": "PriceSpecification",
+    "price": 2099,
+    "priceCurrency": "KMF"
+  },
+  {
+    "@context": [
+      "https://dlt.mobi/mobility-schema"
+    ],
+    "type": "PriceSpecification",
+    "price": 1977,
+    "priceCurrency": "BGN"
+  },
+  {
+    "@context": [
+      "https://dlt.mobi/mobility-schema"
+    ],
+    "type": "PriceSpecification",
+    "price": 2199,
+    "priceCurrency": "MDL"
+  }
+]

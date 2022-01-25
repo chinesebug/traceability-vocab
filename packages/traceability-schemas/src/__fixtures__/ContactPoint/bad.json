@@ -1,0 +1,27 @@
+[
+  {
+    "hard drive": "parse"
+  },
+  {
+    "email": "Rosetta70@example.net",
+    "transmitter": "compress",
+    "bus": "calculate"
+  },
+  {
+    "@context": [
+      "https://dlt.mobi/mobility-schema"
+    ],
+    "name": "Konopelski Inc",
+    "address": {
+      "type": "PostalAddress",
+      "streetAddress": "6716 Gracie Circle",
+      "addressLocality": "Bechtelarhaven",
+      "addressRegion": "Vermont",
+      "postalCode": "03504",
+      "addressCountry": "Moldova"
+    },
+    "email": "Willie_Grant86@example.com",
+    "phoneNumber": "555-704-1323",
+    "driver": "transmit"
+  }
+]

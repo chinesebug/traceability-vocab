@@ -1,0 +1,40 @@
+[
+  {
+    "@context": [
+      "https://dlt.mobi/mobility-schema"
+    ],
+    "type": "Organization",
+    "description": "Inverse bi-directional definition",
+    "application": "input",
+    "capacitor": "input",
+    "bus": "navigate"
+  },
+  {
+    "monitor": "navigate",
+    "hard drive": "generate",
+    "system": "transmit",
+    "circuit": "index"
+  },
+  {
+    "email": "Hanna.Treutel51@example.com",
+    "phoneNumber": "555-676-2620",
+    "worksFor": {
+      "type": "Organization",
+      "name": "Blanda - Lind",
+      "description": "Cross-platform high-level benchmark",
+      "address": {
+        "type": "PostalAddress",
+        "streetAddress": "971 Ronny Lodge",
+        "addressLocality": "Lake Destin",
+        "addressRegion": "Arkansas",
+        "postalCode": "09643",
+        "addressCountry": "Gibraltar"
+      },
+      "email": "Camryn69@example.com",
+      "phoneNumber": "555-288-6700",
+      "faxNumber": "555-621-3161"
+    },
+    "port": "navigate",
+    "microchip": "back up"
+  }
+]

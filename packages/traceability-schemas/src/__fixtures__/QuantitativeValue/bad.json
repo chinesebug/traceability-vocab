@@ -1,0 +1,16 @@
+[
+  {
+    "pixel": "copy"
+  },
+  {
+    "unitCode": "hg/ha",
+    "interface": "compress",
+    "sensor": "hack",
+    "system": "hack"
+  },
+  {
+    "card": "hack",
+    "firewall": "bypass",
+    "array": "back up"
+  }
+]

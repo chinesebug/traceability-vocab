@@ -1,0 +1,26 @@
+[
+  {
+    "pixel": "connect",
+    "bandwidth": "reboot",
+    "array": "index"
+  },
+  {
+    "type": [
+      "StripeCustomerCredential",
+      "VerifiableCredential"
+    ],
+    "issuanceDate": "2021-03-09",
+    "interface": "navigate",
+    "sensor": "connect",
+    "driver": "bypass"
+  },
+  {
+    "type": [
+      "StripeCustomerCredential",
+      "VerifiableCredential"
+    ],
+    "customerID": "customer123",
+    "program": "transmit",
+    "alarm": "program"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "@context": [
+      "https://dlt.mobi/mobility-schema"
+    ],
+    "type": "LegalEntityIdentifierCredential",
+    "leiCode": "QJA2SI4TCGZ1SSH7C9V5",
+    "certificateName": "US Legal Entity Certificate"
+  },
+  {
+    "@context": [
+      "https://dlt.mobi/mobility-schema"
+    ],
+    "type": "LegalEntityIdentifierCredential",
+    "leiCode": "V98YGKZRRK0J23GCWAJE",
+    "certificateName": "US Legal Entity Certificate"
+  },
+  {
+    "@context": [
+      "https://dlt.mobi/mobility-schema"
+    ],
+    "type": "LegalEntityIdentifierCredential",
+    "leiCode": "D3RFY776I3ACSRK9MBSN",
+    "certificateName": "US Legal Entity Certificate"
+  }
+]

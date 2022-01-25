@@ -1,0 +1,80 @@
+[
+  {
+    "@context": [
+      "https://dlt.mobi/mobility-schema"
+    ],
+    "type": "VID",
+    "vid": "did:mobi:c276e12ec21ebfeb1f712ebc6f",
+    "manufacturer": {
+      "type": "Organization",
+      "name": "Rodriguez - Dibbert",
+      "description": "Optional analyzing leverage",
+      "address": {
+        "type": "PostalAddress",
+        "streetAddress": "7885 Nils Mountains",
+        "addressLocality": "West Jarenbury",
+        "addressRegion": "Oklahoma",
+        "postalCode": "23253-1252",
+        "addressCountry": "Switzerland"
+      },
+      "email": "Bret_Hoppe@example.net",
+      "phoneNumber": "555-482-8817",
+      "faxNumber": "555-917-7519"
+    },
+    "make": "Ford",
+    "model": "Mach_E",
+    "vin": "JTERU5JR7M5861170"
+  },
+  {
+    "@context": [
+      "https://dlt.mobi/mobility-schema"
+    ],
+    "type": "VID",
+    "vid": "did:mobi:c276e12ec21ebfeb1f712ebc6f",
+    "manufacturer": {
+      "type": "Organization",
+      "name": "Rutherford LLC",
+      "description": "Reduced explicit capability",
+      "address": {
+        "type": "PostalAddress",
+        "streetAddress": "52814 Erdman Ridge",
+        "addressLocality": "Lauriannefort",
+        "addressRegion": "Indiana",
+        "postalCode": "67887",
+        "addressCountry": "Kiribati"
+      },
+      "email": "Cydney.Bartell@example.com",
+      "phoneNumber": "555-784-9849",
+      "faxNumber": "555-268-8080"
+    },
+    "make": "Ford",
+    "model": "Mach_E",
+    "vin": "JTERU5JR7M5861170"
+  },
+  {
+    "@context": [
+      "https://dlt.mobi/mobility-schema"
+    ],
+    "type": "VID",
+    "vid": "did:mobi:c276e12ec21ebfeb1f712ebc6f",
+    "manufacturer": {
+      "type": "Organization",
+      "name": "Rogahn, Schmitt and Schoen",
+      "description": "Progressive systematic ability",
+      "address": {
+        "type": "PostalAddress",
+        "streetAddress": "85379 Manuel Lights",
+        "addressLocality": "Botsfordhaven",
+        "addressRegion": "Pennsylvania",
+        "postalCode": "85709",
+        "addressCountry": "Bermuda"
+      },
+      "email": "Jameson.Flatley@example.net",
+      "phoneNumber": "555-843-9990",
+      "faxNumber": "555-912-3939"
+    },
+    "make": "Ford",
+    "model": "Mach_E",
+    "vin": "JTERU5JR7M5861170"
+  }
+]

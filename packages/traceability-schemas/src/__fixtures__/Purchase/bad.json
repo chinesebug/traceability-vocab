@@ -1,0 +1,23 @@
+[
+  {
+    "@context": [
+      "https://dlt.mobi/mobility-schema"
+    ],
+    "alarm": "synthesize"
+  },
+  {
+    "@context": [
+      "https://dlt.mobi/mobility-schema"
+    ],
+    "type": [
+      "Purchase"
+    ],
+    "capacitor": "calculate"
+  },
+  {
+    "firewall": "navigate",
+    "microchip": "generate",
+    "bus": "transmit",
+    "feed": "program"
+  }
+]

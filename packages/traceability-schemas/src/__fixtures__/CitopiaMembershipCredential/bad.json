@@ -1,0 +1,23 @@
+[
+  {
+    "holder": "Matt Shi",
+    "circuit": "synthesize",
+    "pixel": "quantify",
+    "driver": "navigate",
+    "bandwidth": "reboot"
+  },
+  {
+    "@context": [
+      "https://dlt.mobi/mobility-schema"
+    ],
+    "type": "CitopiaMembershipCredential",
+    "identifier": "did:mobinet:123456789abcdefghi",
+    "microchip": "synthesize"
+  },
+  {
+    "@context": [
+      "https://dlt.mobi/mobility-schema"
+    ],
+    "firewall": "navigate"
+  }
+]

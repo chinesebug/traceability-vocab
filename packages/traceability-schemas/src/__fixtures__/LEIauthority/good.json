@@ -1,0 +1,29 @@
+[
+  {
+    "@context": [
+      "https://dlt.mobi/mobility-schema"
+    ],
+    "type": "LEIauthority",
+    "validationAuthorityID": "RA000661",
+    "otherValidationAuthorityID": "LRD020TB",
+    "validationAuthorityEntityID": "DHTR9O0G59GZXF3GU5IS"
+  },
+  {
+    "@context": [
+      "https://dlt.mobi/mobility-schema"
+    ],
+    "type": "LEIauthority",
+    "validationAuthorityID": "RA000003",
+    "otherValidationAuthorityID": "51FQXWFU",
+    "validationAuthorityEntityID": "MYER9FZBEBWQ8Q771VNP"
+  },
+  {
+    "@context": [
+      "https://dlt.mobi/mobility-schema"
+    ],
+    "type": "LEIauthority",
+    "validationAuthorityID": "RA000003",
+    "otherValidationAuthorityID": "R5RGUJR0",
+    "validationAuthorityEntityID": "MS4A1WXYM6SGH04L4LO8"
+  }
+]

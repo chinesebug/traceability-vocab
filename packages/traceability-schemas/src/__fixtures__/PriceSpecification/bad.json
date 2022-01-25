@@ -1,0 +1,24 @@
+[
+  {
+    "matrix": "transmit",
+    "firewall": "program",
+    "interface": "compress",
+    "alarm": "parse"
+  },
+  {
+    "@context": [
+      "https://dlt.mobi/mobility-schema"
+    ],
+    "monitor": "parse",
+    "matrix": "generate"
+  },
+  {
+    "@context": [
+      "https://dlt.mobi/mobility-schema"
+    ],
+    "priceCurrency": "MDL",
+    "pixel": "back up",
+    "protocol": "override",
+    "matrix": "back up"
+  }
+]

@@ -1,0 +1,59 @@
+[
+  {
+    "@context": [
+      "https://dlt.mobi/mobility-schema"
+    ],
+    "type": "Organization",
+    "name": "O'Conner - Kerluke",
+    "description": "Pre-emptive logistical forecast",
+    "address": {
+      "type": "PostalAddress",
+      "streetAddress": "883 Frami Mountain",
+      "addressLocality": "Bertrandfort",
+      "addressRegion": "California",
+      "postalCode": "72419",
+      "addressCountry": "Guadeloupe"
+    },
+    "email": "Ron_Schoen@example.net",
+    "phoneNumber": "555-765-5053",
+    "faxNumber": "555-272-7739"
+  },
+  {
+    "@context": [
+      "https://dlt.mobi/mobility-schema"
+    ],
+    "type": "Organization",
+    "name": "Turner, Swaniawski and Feest",
+    "description": "Right-sized scalable productivity",
+    "address": {
+      "type": "PostalAddress",
+      "streetAddress": "2980 Nolan Gardens",
+      "addressLocality": "New Sammy",
+      "addressRegion": "Montana",
+      "postalCode": "33200",
+      "addressCountry": "Saint Pierre and Miquelon"
+    },
+    "email": "Mallie65@example.org",
+    "phoneNumber": "555-373-4674",
+    "faxNumber": "555-687-7833"
+  },
+  {
+    "@context": [
+      "https://dlt.mobi/mobility-schema"
+    ],
+    "type": "Organization",
+    "name": "Mraz, Reinger and Macejkovic",
+    "description": "Front-line modular service-desk",
+    "address": {
+      "type": "PostalAddress",
+      "streetAddress": "9814 Bauch Landing",
+      "addressLocality": "Lake Alejandrin",
+      "addressRegion": "Virginia",
+      "postalCode": "21872-9987",
+      "addressCountry": "Peru"
+    },
+    "email": "Earline.Nicolas11@example.com",
+    "phoneNumber": "555-824-8555",
+    "faxNumber": "555-116-9836"
+  }
+]

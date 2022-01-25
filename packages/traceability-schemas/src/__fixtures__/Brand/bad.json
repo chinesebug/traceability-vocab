@@ -1,0 +1,13 @@
+[
+  {
+    "type": "Brand",
+    "alarm": "override"
+  },
+  {
+    "program": "parse",
+    "bandwidth": "parse"
+  },
+  {
+    "array": "copy"
+  }
+]

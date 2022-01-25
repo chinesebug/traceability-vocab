@@ -1,0 +1,62 @@
+[
+  {
+    "@context": [
+      "https://dlt.mobi/mobility-schema"
+    ],
+    "type": "LEIregistration",
+    "initialRegistrationDate": "2020-01-01",
+    "lastUpdateDate": "2020-01-01",
+    "status": "CONFIRMED",
+    "nextRenewalDate": "2021-02-02",
+    "managingLou": "LYMSDQCBSXMXLUSATBEF",
+    "validationSources": "PARTIALLY_CORROBORATED",
+    "validationAuthority": [
+      {
+        "type": "LEIauthority",
+        "validationAuthorityID": "RA000661",
+        "otherValidationAuthorityID": "DZC50P0L",
+        "validationAuthorityEntityID": "TL9PIXASX29UF8VDUG6H"
+      }
+    ]
+  },
+  {
+    "@context": [
+      "https://dlt.mobi/mobility-schema"
+    ],
+    "type": "LEIregistration",
+    "initialRegistrationDate": "2020-01-01",
+    "lastUpdateDate": "2020-01-01",
+    "status": "REQUESTED",
+    "nextRenewalDate": "2021-02-02",
+    "managingLou": "INIKUJCXGATROZDOWYKB",
+    "validationSources": "NOT_CORROBORATED",
+    "validationAuthority": [
+      {
+        "type": "LEIauthority",
+        "validationAuthorityID": "RA000004",
+        "otherValidationAuthorityID": "1A19989W",
+        "validationAuthorityEntityID": "S8Z9DRFGUR925HU112MW"
+      }
+    ]
+  },
+  {
+    "@context": [
+      "https://dlt.mobi/mobility-schema"
+    ],
+    "type": "LEIregistration",
+    "initialRegistrationDate": "2020-01-01",
+    "lastUpdateDate": "2020-01-01",
+    "status": "REQUESTED",
+    "nextRenewalDate": "2021-02-02",
+    "managingLou": "WKSOBUSOOPCFLWMLEDYR",
+    "validationSources": "NOT_CORROBORATED",
+    "validationAuthority": [
+      {
+        "type": "LEIauthority",
+        "validationAuthorityID": "RA000001",
+        "otherValidationAuthorityID": "NQ76KCGB",
+        "validationAuthorityEntityID": "YYLYC6405P8F93UOKJIZ"
+      }
+    ]
+  }
+]

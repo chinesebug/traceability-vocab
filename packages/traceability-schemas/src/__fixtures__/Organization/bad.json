@@ -1,0 +1,27 @@
+[
+  {
+    "feed": "back up",
+    "protocol": "synthesize"
+  },
+  {
+    "sensor": "compress",
+    "bus": "navigate"
+  },
+  {
+    "type": "Organization",
+    "name": "Mraz, Reinger and Macejkovic",
+    "description": "Front-line modular service-desk",
+    "address": {
+      "type": "PostalAddress",
+      "streetAddress": "9814 Bauch Landing",
+      "addressLocality": "Lake Alejandrin",
+      "addressRegion": "Virginia",
+      "postalCode": "21872-9987",
+      "addressCountry": "Peru"
+    },
+    "phoneNumber": "555-824-8555",
+    "faxNumber": "555-116-9836",
+    "protocol": "back up",
+    "port": "compress"
+  }
+]

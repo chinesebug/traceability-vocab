@@ -1,0 +1,56 @@
+[
+  {
+    "@context": [
+      "https://dlt.mobi/mobility-schema"
+    ],
+    "type": "LEIaddress",
+    "language": "tr",
+    "addressLines": [
+      "Stokes - Bosco",
+      "14809 Alfonzo Summit"
+    ],
+    "addressNumber": "196",
+    "addressNumberWithinBuilding": "3",
+    "mailRouting": "369 Ashlee Orchard, 42302",
+    "city": "Mitcheltown",
+    "region": "Cambridgeshire",
+    "country": "Kenya",
+    "postalCode": "50921"
+  },
+  {
+    "@context": [
+      "https://dlt.mobi/mobility-schema"
+    ],
+    "type": "LEIaddress",
+    "language": "ne",
+    "addressLines": [
+      "Mann - Stracke",
+      "862 Stroman Summit"
+    ],
+    "addressNumber": "440",
+    "addressNumberWithinBuilding": "6",
+    "mailRouting": "73826 Benjamin Viaduct, 67118-8984",
+    "city": "Port Reytown",
+    "region": "Buckinghamshire",
+    "country": "Estonia",
+    "postalCode": "83279"
+  },
+  {
+    "@context": [
+      "https://dlt.mobi/mobility-schema"
+    ],
+    "type": "LEIaddress",
+    "language": "en_IND",
+    "addressLines": [
+      "Morissette and Sons",
+      "36058 Breitenberg Spur"
+    ],
+    "addressNumber": "316",
+    "addressNumberWithinBuilding": "2",
+    "mailRouting": "70549 Huel Streets, 19717-9167",
+    "city": "Port Eliseville",
+    "region": "Borders",
+    "country": "Wallis and Futuna",
+    "postalCode": "70754-3060"
+  }
+]

@@ -24,7 +24,7 @@ const documentLoader = (iri) => {
       document: securityContexts.contexts.get(iri),
     };
   }
-  if (iri.startsWith('https://w3id.org/traceability/v1')) {
+  if (iri.startsWith('https://dlt.mobi/mobility-schema')) {
     return {
       documentUrl: iri,
       document: JSON.parse(
@@ -32,7 +32,7 @@ const documentLoader = (iri) => {
           .readFileSync(
             path.resolve(
               __dirname,
-              '../../../../../docs/contexts/traceability-v1.jsonld'
+              '../../../../../docs/contexts/mobility-v1.jsonld'
             )
           )
           .toString()

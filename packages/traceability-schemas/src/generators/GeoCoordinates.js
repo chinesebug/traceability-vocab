@@ -2,7 +2,7 @@ const faker = require('faker');
 
 const getGeoCoordinates = () => {
   const example = {
-    '@context': ['https://w3id.org/traceability/v1'],
+    '@context': ['https://dlt.mobi/mobility-schema'],
     type: 'GeoCoordinates',
     latitude: faker.address.latitude(),
     longitude: faker.address.longitude(),
